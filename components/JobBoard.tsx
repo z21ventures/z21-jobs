@@ -59,20 +59,39 @@ function normalizeRegion(location: string): Region | null {
 
 // ── Function inference ────────────────────────────────────────────────────────
 
-type Fn = "Engineering" | "Product" | "Sales & Success" | "Marketing" | "Operations" | "Design" | "Other";
+type Fn = "Engineering" | "Product" | "Sales & Success" | "Marketing" | "Operations" | "HR" | "Design" | "Other";
 
 function inferFunction(job: Job): Fn {
   const t = `${job.title} ${job.department}`.toLowerCase();
-  if (/engineer|developer|software|technical|ai\b|ml\b|data\b|platform|robotics|embedded|hardware|devops|qa\b|sre\b|backend|frontend|full.stack|fullstack|cloud|systems|infrastructure|coding|robot|perception|computer vision/.test(t)) return "Engineering";
-  if (/product manager|product owner|\bpm\b|\bpmo\b|roadmap/.test(t)) return "Product";
-  if (/sales|business development|\bgtm\b|go.to.market|revenue|account|customer success|\bcs\b|customer strat/.test(t)) return "Sales & Success";
-  if (/marketing|\bpmm\b|demand gen|brand|content|communications|growth/.test(t)) return "Marketing";
-  if (/operations|admin|office|facilities|logistics|supply|recruit|talent|people|\bhr\b|finance|legal|compliance|founder|sourcing|dispatch/.test(t)) return "Operations";
-  if (/design|\bux\b|\bui\b|user experience|user interface|creative/.test(t)) return "Design";
+
+  // HR — checked first so "Technical Recruiter" / "HR Advisor" don't fall into Engineering
+  if (/\bhr\b|human resources|\brecruiter\b|talent acquisition|people ops|people partner/.test(t)) return "HR";
+
+  // Product — checked before Engineering so "AI Product Manager" / "Product Management Intern" aren't caught by Engineering
+  if (/product manager|product owner|product management|\bpmo\b|roadmap/.test(t)) return "Product";
+
+  // Facilities/maintenance — checked before Engineering so "Facilities Maintenance Technician" isn't caught by "technician"
+  if (/facilities|maintenance tech/.test(t)) return "Operations";
+
+  // Engineering — standalone "technical", "ai", "ml", "data" removed (too broad)
+  if (/\bengineer\b|developer|\bsoftware\b|machine learning|deep learning|data scientist|data engineer|data analyst|platform|robotics|embedded|hardware|devops|\bqa\b|\bsre\b|backend|frontend|full.stack|fullstack|\bcloud\b|infrastructure|coding|\brobot\b|perception|computer vision|\bsde\b|\br&d\b|technician|firmware|avionics|propulsion|stress analysis|annotation/.test(t)) return "Engineering";
+
+  // Marketing — checked before Sales so PMM / brand roles aren't caught by GTM keyword in Sales
+  if (/\bmarketing\b|\bpmm\b|demand gen|\bbrand\b|content|communications|growth/.test(t)) return "Marketing";
+
+  // Sales & Success
+  if (/\bsales\b|business development|\bgtm\b|go.to.market|revenue|account executive|customer success|customer strategist|field integration/.test(t)) return "Sales & Success";
+
+  // Operations
+  if (/operations|admin|office|logistics|supply chain|procurement|\bbuyer\b|finance|legal|compliance|founder|sourcing|dispatch|program manager|program associate|program management|documentation|deployment/.test(t)) return "Operations";
+
+  // Design
+  if (/\bdesign\b|\bux\b|\bui\b|user experience|user interface|creative/.test(t)) return "Design";
+
   return "Other";
 }
 
-const FUNCTIONS: Fn[] = ["Engineering", "Product", "Sales & Success", "Marketing", "Operations", "Design", "Other"];
+const FUNCTIONS: Fn[] = ["Engineering", "Product", "Sales & Success", "Marketing", "Operations", "HR", "Design", "Other"];
 const REGIONS: Region[] = ["India", "United States", "Remote", "Rest of World"];
 
 // ── Icons ─────────────────────────────────────────────────────────────────────
