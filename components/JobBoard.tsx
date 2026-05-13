@@ -153,6 +153,11 @@ function FilterSelect<T extends string>({
   );
 }
 
+function safeUrl(url: string): string | undefined {
+  if (/^https?:\/\//i.test(url)) return url;
+  return undefined;
+}
+
 // ── Main component ────────────────────────────────────────────────────────────
 
 export default function JobBoard({
@@ -300,7 +305,7 @@ export default function JobBoard({
             {filtered.map((job) => (
               <li key={job.id}>
                 <a
-                  href={job.url}
+                  href={safeUrl(job.url)}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group flex items-center justify-between gap-4 bg-white border border-gray-200 rounded-xl px-5 py-4 hover:border-[#DE5126]/50 hover:shadow-sm transition-all"
@@ -343,7 +348,7 @@ export default function JobBoard({
               {linkOnlyCompanies.map((c) => (
                 <a
                   key={c.name}
-                  href={c.url}
+                  href={safeUrl(c.url)}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group flex items-center justify-between bg-white border border-gray-200 rounded-xl px-5 py-3.5 hover:border-[#DE5126]/50 hover:shadow-sm transition-all"
