@@ -241,12 +241,12 @@ def scrape_zime_html(company: dict) -> list[dict]:
         title_m = re.search(r'class="job-title[^"]*">([^<]+)<', card)
         if not title_m:
             continue
-        title = title_m.group(1).strip()
+        title = unescape(title_m.group(1).strip())
 
         spans = re.findall(r'class="job-(?:location|department)[^"]*">([^<]+)<', card)
-        location = spans[0].strip() if len(spans) > 0 else ""
-        dept = spans[1].strip() if len(spans) > 1 else ""
-        job_type = spans[2].strip() if len(spans) > 2 else ""
+        location = unescape(spans[0].strip()) if len(spans) > 0 else ""
+        dept = unescape(spans[1].strip()) if len(spans) > 1 else ""
+        job_type = unescape(spans[2].strip()) if len(spans) > 2 else ""
 
         jobs.append({
             "id": make_id(company["url"] + title),
