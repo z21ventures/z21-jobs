@@ -1,17 +1,5 @@
 [
   {
-    "id": "4f3ebd60dcf3",
-    "company": "Origin",
-    "title": "Robot Learning Intern",
-    "department": "Computer Visions & AI",
-    "location": "Bengaluru, India",
-    "type": "",
-    "salary": "",
-    "url": "https://apply.workable.com/origin-10x/j/5B698C1CA1/",
-    "posted_at": "2026-04-27",
-    "scraped_at": "2026-05-13"
-  },
-  {
     "id": "140d769283a5",
     "company": "Origin",
     "title": "Robot Learning Engineer",
@@ -20,44 +8,8 @@
     "type": "",
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/DB4F64B39D/",
-    "posted_at": "2026-04-27",
-    "scraped_at": "2026-05-13"
-  },
-  {
-    "id": "5d180c55d586",
-    "company": "Origin",
-    "title": "Robot Learning Apprentice",
-    "department": "Computer Visions & AI",
-    "location": "Bengaluru, India",
-    "type": "",
-    "salary": "",
-    "url": "https://apply.workable.com/origin-10x/j/D8E965319D/",
-    "posted_at": "2026-04-27",
-    "scraped_at": "2026-05-13"
-  },
-  {
-    "id": "d2b31b6bae69",
-    "company": "Origin",
-    "title": "Lead AI Engineer",
-    "department": "Computer Visions & AI",
-    "location": "Bengaluru, India",
-    "type": "Full-time",
-    "salary": "INR 7,000,000–10,000,000",
-    "url": "https://apply.workable.com/origin-10x/j/FDDAECC690/",
-    "posted_at": "2026-04-11",
-    "scraped_at": "2026-05-13"
-  },
-  {
-    "id": "e764e428e3dc",
-    "company": "Origin",
-    "title": "Lead Perception Engineer",
-    "department": "Computer Visions & AI",
-    "location": "Bengaluru, India",
-    "type": "Full-time",
-    "salary": "",
-    "url": "https://apply.workable.com/origin-10x/j/299BD1EDC8/",
-    "posted_at": "2026-04-01",
-    "scraped_at": "2026-05-13"
+    "posted_at": "2026-05-18",
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "7a09198afe3d",
@@ -68,8 +20,32 @@
     "type": "Full-time",
     "salary": "USD 100,000–300,000",
     "url": "https://apply.workable.com/origin-10x/j/F140311046/",
-    "posted_at": "2026-04-01",
-    "scraped_at": "2026-05-13"
+    "posted_at": "2026-05-18",
+    "scraped_at": "2026-05-18"
+  },
+  {
+    "id": "d2b31b6bae69",
+    "company": "Origin",
+    "title": "Lead AI Engineer",
+    "department": "Computer Visions & AI",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "INR 7,000,000–10,000,000",
+    "url": "https://apply.workable.com/origin-10x/j/FDDAECC690/",
+    "posted_at": "2026-05-18",
+    "scraped_at": "2026-05-18"
+  },
+  {
+    "id": "5d180c55d586",
+    "company": "Origin",
+    "title": "Robot Learning Apprentice",
+    "department": "Computer Visions & AI",
+    "location": "Bengaluru, India",
+    "type": "",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/D8E965319D/",
+    "posted_at": "2026-05-18",
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "451f4134e410",
@@ -81,7 +57,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/4B8E3A0B33/",
     "posted_at": "2026-02-11",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "263861d6c2df",
@@ -93,7 +69,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/9074EC2C5C/",
     "posted_at": "2026-04-07",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "08db233607e5",
@@ -105,7 +81,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/1C34EC23E7/",
     "posted_at": "2026-02-25",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "7c215f4a79b3",
@@ -117,7 +93,31 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/070A646D1D/",
     "posted_at": "2026-02-20",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
+  },
+  {
+    "id": "9883de478d2d",
+    "company": "Origin",
+    "title": "Senior Embedded Systems Engineer",
+    "department": "Embedded Tool Systems",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/922B0220CA/",
+    "posted_at": "2026-05-15",
+    "scraped_at": "2026-05-18"
+  },
+  {
+    "id": "be2e8db52c54",
+    "company": "Origin",
+    "title": "DevOps Engineer",
+    "department": "Full stack",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/4F48A0516A/",
+    "posted_at": "2026-05-18",
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "7d48b0f7c7d8",
@@ -128,32 +128,44 @@
     "type": "Full-time",
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/E3F273D5A1/",
-    "posted_at": "2026-04-17",
-    "scraped_at": "2026-05-13"
+    "posted_at": "2026-05-18",
+    "scraped_at": "2026-05-18"
   },
   {
-    "id": "f2482f9e214e",
+    "id": "ebb774f8a793",
     "company": "Origin",
-    "title": "DevOps Intern",
-    "department": "Full stack",
+    "title": "Robotics Assembly Manager",
+    "department": "Mechanical",
     "location": "Bengaluru, India",
     "type": "",
     "salary": "",
-    "url": "https://apply.workable.com/origin-10x/j/FF719A4858/",
-    "posted_at": "2026-02-14",
-    "scraped_at": "2026-05-13"
+    "url": "https://apply.workable.com/origin-10x/j/0232B46C93/",
+    "posted_at": "2026-05-14",
+    "scraped_at": "2026-05-18"
   },
   {
-    "id": "ee9db2517f50",
+    "id": "bf10b018dde4",
     "company": "Origin",
-    "title": "Lead Technical Recruiter",
-    "department": "HR",
+    "title": "Senior Mechanical Engineer - Mobile Manipulator Design (MOMA)",
+    "department": "MoMa",
+    "location": "Bengaluru, India",
+    "type": "",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/616CB8A78A/",
+    "posted_at": "2026-05-14",
+    "scraped_at": "2026-05-18"
+  },
+  {
+    "id": "19741a7e3761",
+    "company": "Origin",
+    "title": "Founders Office",
+    "department": "Operations",
     "location": "Bengaluru, India",
     "type": "Full-time",
     "salary": "",
-    "url": "https://apply.workable.com/origin-10x/j/B2FE7960EF/",
-    "posted_at": "2026-05-07",
-    "scraped_at": "2026-05-13"
+    "url": "https://apply.workable.com/origin-10x/j/4BAA78538D/",
+    "posted_at": "2026-05-18",
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "48119c26caef",
@@ -165,19 +177,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/F872C4EB7F/",
     "posted_at": "2026-05-12",
-    "scraped_at": "2026-05-13"
-  },
-  {
-    "id": "19741a7e3761",
-    "company": "Origin",
-    "title": "Founders Office",
-    "department": "Operations",
-    "location": "Bengaluru, India",
-    "type": "Full-time",
-    "salary": "",
-    "url": "https://apply.workable.com/origin-10x/j/4BAA78538D/",
-    "posted_at": "2026-03-13",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "4c955d3585d2",
@@ -189,7 +189,79 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/50BC27C803/",
     "posted_at": "2026-02-26",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
+  },
+  {
+    "id": "47e8e794eb80",
+    "company": "Origin",
+    "title": "Hardware Design Engineer",
+    "department": "Other",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/90CA4709F5/",
+    "posted_at": "2026-05-15",
+    "scraped_at": "2026-05-18"
+  },
+  {
+    "id": "7c3f6cd2fe40",
+    "company": "Origin",
+    "title": "Product & Technical Storyteller",
+    "department": "Other",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/B3D3643FFA/",
+    "posted_at": "2026-05-15",
+    "scraped_at": "2026-05-18"
+  },
+  {
+    "id": "723ed6553351",
+    "company": "Origin",
+    "title": "Program Management Intern - Data",
+    "department": "Other",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/691B7B0C05/",
+    "posted_at": "2026-05-15",
+    "scraped_at": "2026-05-18"
+  },
+  {
+    "id": "56f0f53b273d",
+    "company": "Origin",
+    "title": "Lead Quality Engineer, Robotic Tools",
+    "department": "Other",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/9D184F0CA3/",
+    "posted_at": "2026-05-15",
+    "scraped_at": "2026-05-18"
+  },
+  {
+    "id": "cb434a194064",
+    "company": "Origin",
+    "title": "Embedded Vision Engineer",
+    "department": "Other",
+    "location": "Bengaluru, India",
+    "type": "",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/DE344D25E5/",
+    "posted_at": "2026-05-14",
+    "scraped_at": "2026-05-18"
+  },
+  {
+    "id": "2bf37540d561",
+    "company": "Origin",
+    "title": "Sourcing & Manufacturing Engineer",
+    "department": "Other",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/500459682A/",
+    "posted_at": "2026-05-14",
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "cf37fcc13f3e",
@@ -201,7 +273,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/5CEFA24240/",
     "posted_at": "2026-05-13",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "fc1fc9f8dd13",
@@ -213,7 +285,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/43C17AFC88/",
     "posted_at": "2026-04-07",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "49d0a013947c",
@@ -224,32 +296,8 @@
     "type": "Full-time",
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/8F38A6936E/",
-    "posted_at": "2026-04-27",
-    "scraped_at": "2026-05-13"
-  },
-  {
-    "id": "eeb3363c9144",
-    "company": "Origin",
-    "title": "Lead Platform Software Engineer",
-    "department": "Robotics Software",
-    "location": "Bengaluru, India",
-    "type": "Full-time",
-    "salary": "",
-    "url": "https://apply.workable.com/origin-10x/j/F5FB63102A/",
-    "posted_at": "2026-04-09",
-    "scraped_at": "2026-05-13"
-  },
-  {
-    "id": "4b3a26e50abc",
-    "company": "Lighthouz AI",
-    "title": "AI Engineer - Document Intelligence (2-6 Years Experience)",
-    "department": "Engineering",
-    "location": "DL, IN / Delhi, IN",
-    "type": "Full-time",
-    "salary": "₹1.5M - ₹3M INR",
-    "url": "https://www.ycombinator.com/companies/lighthouz-ai/jobs/WfV5HPU-ai-engineer-document-intelligence-2-6-years-experience",
-    "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "posted_at": "2026-05-18",
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "eac3e3cf3eaa",
@@ -261,7 +309,7 @@
     "salary": "₹2M - ₹3.5M INR",
     "url": "https://www.ycombinator.com/companies/lighthouz-ai/jobs/05KYNGI-software-engineer-4-6-years-experience",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "fa9a84ef3fec",
@@ -273,7 +321,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7702178-receipts-dispatch-operative",
     "posted_at": "2026-05-07",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "55e9ba8393d9",
@@ -285,7 +333,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7702132-logistics-dispatch-manager",
     "posted_at": "2026-05-07",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "924a7284cabe",
@@ -297,7 +345,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7691056-facilities-maintenance-technician",
     "posted_at": "2026-05-06",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "f85dfcaf6619",
@@ -309,7 +357,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7662817-systems-integration-technician",
     "posted_at": "2026-04-30",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "f6438a0edb91",
@@ -321,7 +369,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7660834-development-technician",
     "posted_at": "2026-04-29",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "c8956c3c2611",
@@ -333,7 +381,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7660824-aircraft-development-technician",
     "posted_at": "2026-04-29",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "aa8810b52896",
@@ -345,7 +393,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7648991-technical-buyer",
     "posted_at": "2026-04-28",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "47148865bf21",
@@ -357,7 +405,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7613113-hr-advisor-manufacturing",
     "posted_at": "2026-04-22",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "f02d0d11e0a3",
@@ -369,7 +417,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7613096-production-logistics-technician",
     "posted_at": "2026-04-22",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "d2517f7d0fef",
@@ -381,7 +429,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7613083-quality-inspector",
     "posted_at": "2026-04-22",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "e5b15177680e",
@@ -393,7 +441,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7613064-production-supervisor",
     "posted_at": "2026-04-22",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "e4a6b95f0bf1",
@@ -405,7 +453,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7599425-facilities-administrator",
     "posted_at": "2026-04-20",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "474d3c67d647",
@@ -417,7 +465,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7599388-procurement-administrator",
     "posted_at": "2026-04-20",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "84e0bb14ed3a",
@@ -429,7 +477,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7553398-lead-development-engineer-aero-thermal-powertrain-systems-germany-based",
     "posted_at": "2026-04-13",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "3408531e4a1e",
@@ -441,7 +489,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7526801-systems-integration-engineer-avionics-electronics",
     "posted_at": "2026-04-08",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "ad86ba43c2d5",
@@ -453,7 +501,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7278048-test-technician",
     "posted_at": "2026-02-23",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "55ea3fe42270",
@@ -465,7 +513,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7245734-stress-analysis-engineer-propulsion",
     "posted_at": "2026-02-17",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "25bf74501968",
@@ -477,7 +525,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7100613-aircraft-design-engineer",
     "posted_at": "2026-01-23",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "59366150b434",
@@ -489,7 +537,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7100573-aircraft-development-engineer",
     "posted_at": "2026-01-23",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "43bf792b9e69",
@@ -501,7 +549,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7100546-mechanical-design-engineer",
     "posted_at": "2026-01-23",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "ef85f1bac850",
@@ -513,7 +561,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7005713-production-technician",
     "posted_at": "2026-01-06",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "479f246afde5",
@@ -525,7 +573,7 @@
     "salary": "",
     "url": "https://job-boards.eu.greenhouse.io/risalabs/jobs/4751842101",
     "posted_at": "2026-01-12",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "081c2062ef31",
@@ -537,7 +585,7 @@
     "salary": "",
     "url": "https://job-boards.eu.greenhouse.io/risalabs/jobs/4751825101",
     "posted_at": "2026-01-12",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "aa6569c28978",
@@ -549,7 +597,7 @@
     "salary": "",
     "url": "https://job-boards.eu.greenhouse.io/risalabs/jobs/4846886101",
     "posted_at": "2026-04-21",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "629f9cbe60e1",
@@ -561,7 +609,7 @@
     "salary": "",
     "url": "https://job-boards.eu.greenhouse.io/risalabs/jobs/4751811101",
     "posted_at": "2026-01-12",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "ead7e76d0800",
@@ -573,7 +621,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "3b5fd2eee81b",
@@ -585,7 +633,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "50f32125c42b",
@@ -597,7 +645,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "c21b42d959d3",
@@ -609,7 +657,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "bddc71e3b982",
@@ -621,7 +669,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "c39145aeb54e",
@@ -633,7 +681,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "3dc9eff30236",
@@ -645,7 +693,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Sales-Business-Development-Executive.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "9e5070348fcb",
@@ -657,7 +705,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/product-sales-operations.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "7b2081513d2e",
@@ -669,7 +717,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Product-Marketing-Specialist.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "47fa3cf00317",
@@ -681,7 +729,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Demand-Generation-Specialist.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "884875c57ed1",
@@ -693,7 +741,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Sales-Operations-Specialist.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "b0db73037258",
@@ -705,7 +753,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Customer-Success-Specialist.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "885b5e8dc7f0",
@@ -717,7 +765,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Junior-Product-Owner.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "f40cea092683",
@@ -729,7 +777,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Full-Stack-Developer.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "37ac1fe9e966",
@@ -741,7 +789,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Mobile-App-Developer.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "ee79ce775d7d",
@@ -753,7 +801,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Junior-Site-Reliability-Engineer.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "53fc179e93b8",
@@ -765,7 +813,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Junior-QA-Engineer.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "0a1739b229c8",
@@ -777,7 +825,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Documentation-Specialist.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "431c7369456d",
@@ -789,7 +837,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/UI-Developer.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "71981e691deb",
@@ -801,7 +849,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/UI-UX-Designer.html",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "ba42c6c054ee",
@@ -813,7 +861,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/1b1980ee54b981dcb740dd63a7082e43",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "406bf352e34c",
@@ -825,7 +873,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/232980ee54b980e0ae65efbce1446ec7",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "5cf16fe3132f",
@@ -837,7 +885,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/26c980ee54b980e1897cd856ceae2f8a",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "887720475ee7",
@@ -849,7 +897,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2b8980ee54b9804b8e6ae6dd1242f2a2",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "fa1b05e28cc0",
@@ -861,7 +909,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2d9980ee54b980f78b0ad0eebaa869be",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "04a5476f796e",
@@ -873,7 +921,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2dc980ee54b980bbb367e7c3b40673fd",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "5d665826527b",
@@ -885,7 +933,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2ea980ee54b980a187e2d85ea01e94d0",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "6370fb60561b",
@@ -897,7 +945,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2f7980ee54b980838ba9ea8471439027",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "4d64efc47653",
@@ -909,7 +957,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2fc980ee54b980628a07e3f1c292d483",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "2fbec1a91df5",
@@ -921,7 +969,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2fc980ee54b980ef8c8ac7b78634f532",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "24533b9a03f8",
@@ -933,7 +981,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2fd980ee54b9803d9c93e00709bd326e",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "dbcb055fe21e",
@@ -945,7 +993,7 @@
     "salary": "",
     "url": "https://refold.notion.site/21fb06e6391e802b84a7ce41393b3729",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "f590bdae8f43",
@@ -957,7 +1005,7 @@
     "salary": "",
     "url": "https://refold.notion.site/21fb06e6391e8018a6f0f60e410fcb68",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "677ed1ef65d7",
@@ -969,7 +1017,7 @@
     "salary": "",
     "url": "https://refold.notion.site/21fb06e6391e80f69397d3fff05769e9",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "d710af9885a3",
@@ -981,7 +1029,7 @@
     "salary": "",
     "url": "https://refold.notion.site/271b06e6391e801a8fece30ef5589fe4",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "efc0d6496eb3",
@@ -993,7 +1041,7 @@
     "salary": "",
     "url": "https://refold.notion.site/2c4b06e6391e802d8d45f877832b0d91",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "ad00c27dc04b",
@@ -1005,7 +1053,7 @@
     "salary": "",
     "url": "https://refold.notion.site/2c5b06e6391e806ba8f4dceac214b2a3",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "74bfeadb5e5d",
@@ -1017,7 +1065,7 @@
     "salary": "",
     "url": "https://refold.notion.site/277b06e6391e8085a3dace6f0e1d7b19",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   },
   {
     "id": "623ad1f8e2d4",
@@ -1029,6 +1077,6 @@
     "salary": "",
     "url": "https://refold.notion.site/28cb06e6391e804faf43f074487e7618",
     "posted_at": "",
-    "scraped_at": "2026-05-13"
+    "scraped_at": "2026-05-18"
   }
 ]
