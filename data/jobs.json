@@ -1,5 +1,41 @@
 [
   {
+    "id": "09a67290a0c0",
+    "company": "Origin",
+    "title": "Perception Engineer",
+    "department": "Computer Visions & AI",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/58149E6068/",
+    "posted_at": "2026-07-23",
+    "scraped_at": "2026-07-27"
+  },
+  {
+    "id": "e764e428e3dc",
+    "company": "Origin",
+    "title": "Lead Perception Engineer",
+    "department": "Computer Visions & AI",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/299BD1EDC8/",
+    "posted_at": "2026-07-23",
+    "scraped_at": "2026-07-27"
+  },
+  {
+    "id": "0b819ff251c4",
+    "company": "Origin",
+    "title": "AI Research Engineer",
+    "department": "Computer Visions & AI",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/29D4934B27/",
+    "posted_at": "2026-07-22",
+    "scraped_at": "2026-07-27"
+  },
+  {
     "id": "d2b31b6bae69",
     "company": "Origin",
     "title": "Lead AI Engineer",
@@ -9,7 +45,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/FDDAECC690/",
     "posted_at": "2026-06-04",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "140d769283a5",
@@ -21,7 +57,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/DB4F64B39D/",
     "posted_at": "2026-05-18",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "7a09198afe3d",
@@ -33,7 +69,7 @@
     "salary": "USD 100,000–300,000",
     "url": "https://apply.workable.com/origin-10x/j/F140311046/",
     "posted_at": "2026-05-18",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "08db233607e5",
@@ -45,7 +81,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/1C34EC23E7/",
     "posted_at": "2026-07-07",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "18e69d1e8357",
@@ -57,7 +93,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/CD1282DFEB/",
     "posted_at": "2026-06-30",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "9883de478d2d",
@@ -69,7 +105,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/922B0220CA/",
     "posted_at": "2026-05-15",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "7eeb32d4876d",
@@ -81,7 +117,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/35364F34AD/",
     "posted_at": "2026-07-16",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "bf10b018dde4",
@@ -93,7 +129,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/616CB8A78A/",
     "posted_at": "2026-05-14",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "19741a7e3761",
@@ -105,19 +141,31 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/4BAA78538D/",
     "posted_at": "2026-05-18",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
+  },
+  {
+    "id": "ee9db2517f50",
+    "company": "Origin",
+    "title": "Technical Recruiter",
+    "department": "Other",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "salary": "",
+    "url": "https://apply.workable.com/origin-10x/j/B2FE7960EF/",
+    "posted_at": "2026-07-22",
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "1312d331bfcd",
     "company": "Origin",
-    "title": "Finance Controller",
+    "title": "Finance Manager",
     "department": "Other",
     "location": "Bengaluru, India",
     "type": "",
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/3274DD18AB/",
     "posted_at": "2026-07-15",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "9d2a4db0a71f",
@@ -129,7 +177,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/597146FB5E/",
     "posted_at": "2026-06-26",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "ac24704ac1dd",
@@ -141,7 +189,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/143609825F/",
     "posted_at": "2026-06-17",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "95f33c6fedb0",
@@ -153,7 +201,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/EC7F20B562/",
     "posted_at": "2026-06-05",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "16e71c02ba8b",
@@ -165,7 +213,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/9F092A2ADE/",
     "posted_at": "2026-05-20",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "7d1d86240782",
@@ -177,7 +225,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/C9ACDDE29B/",
     "posted_at": "2026-05-19",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "49ff613cfd4b",
@@ -189,7 +237,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/DA2CC2EC25/",
     "posted_at": "2026-05-19",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "7c3f6cd2fe40",
@@ -201,7 +249,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/B3D3643FFA/",
     "posted_at": "2026-05-15",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "56f0f53b273d",
@@ -213,7 +261,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/9D184F0CA3/",
     "posted_at": "2026-05-15",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "2bf37540d561",
@@ -225,7 +273,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/500459682A/",
     "posted_at": "2026-05-14",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "49d0a013947c",
@@ -237,19 +285,7 @@
     "salary": "",
     "url": "https://apply.workable.com/origin-10x/j/8F38A6936E/",
     "posted_at": "2026-06-04",
-    "scraped_at": "2026-07-20"
-  },
-  {
-    "id": "eeb3363c9144",
-    "company": "Origin",
-    "title": "Lead Software Engineer - Linux",
-    "department": "Robotics Software",
-    "location": "Bengaluru, India",
-    "type": "Full-time",
-    "salary": "",
-    "url": "https://apply.workable.com/origin-10x/j/F5FB63102A/",
-    "posted_at": "2026-05-18",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "eac3e3cf3eaa",
@@ -261,7 +297,19 @@
     "salary": "₹2M - ₹3.5M INR",
     "url": "https://www.ycombinator.com/companies/lighthouz-ai/jobs/05KYNGI-software-engineer-4-6-years-experience",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
+  },
+  {
+    "id": "40b8450a878e",
+    "company": "Greenjets",
+    "title": "FP&A Manager",
+    "department": "Finance",
+    "location": "Milton Keynes, United Kingdom",
+    "type": "",
+    "salary": "",
+    "url": "https://careers.greenjets.com/jobs/8126407-fp-a-manager",
+    "posted_at": "2026-07-24",
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "1d03c0e2e946",
@@ -273,7 +321,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/8070951-export-control-manager",
     "posted_at": "2026-07-15",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "5dc869318496",
@@ -285,7 +333,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/8050909-production-team-lead",
     "posted_at": "2026-07-10",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "cfe82bfbccc7",
@@ -297,7 +345,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7967662-remote-pilot-fixed-wing-uas",
     "posted_at": "2026-06-24",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "3f671fd193c6",
@@ -309,7 +357,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7954367-junior-business-development-associate",
     "posted_at": "2026-06-23",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "a3300bc0832a",
@@ -321,7 +369,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7908499-logistics-trade-compliance-manager",
     "posted_at": "2026-06-15",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "d3abb27f0914",
@@ -333,7 +381,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7881090-systems-engineer-avionics-germany",
     "posted_at": "2026-06-09",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "27e7fc076f2d",
@@ -345,7 +393,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7854424-commercial-lead",
     "posted_at": "2026-06-04",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "af13775d5edd",
@@ -357,7 +405,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7853374-marketing-coordinator",
     "posted_at": "2026-06-04",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "15285d535aa1",
@@ -369,7 +417,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7849372-accounts-assistant",
     "posted_at": "2026-06-04",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "a6e43494c295",
@@ -381,7 +429,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7845599-systems-engineer-electrical-systems-powertrain",
     "posted_at": "2026-06-03",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "a867055a3d82",
@@ -393,7 +441,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7781328-senior-project-manager-germany",
     "posted_at": "2026-05-22",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "279c5a8a8a68",
@@ -405,7 +453,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7773488-manufacturing-engineer",
     "posted_at": "2026-05-21",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "924a7284cabe",
@@ -417,7 +465,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7691056-facilities-maintenance-technician",
     "posted_at": "2026-05-06",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "c8956c3c2611",
@@ -429,7 +477,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7660824-aircraft-development-technician",
     "posted_at": "2026-04-29",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "47148865bf21",
@@ -441,7 +489,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7613113-hr-advisor-manufacturing",
     "posted_at": "2026-04-22",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "d2517f7d0fef",
@@ -453,19 +501,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7613083-quality-inspector",
     "posted_at": "2026-04-22",
-    "scraped_at": "2026-07-20"
-  },
-  {
-    "id": "e5b15177680e",
-    "company": "Greenjets",
-    "title": "Production Supervisor",
-    "department": "Operations",
-    "location": "Milton Keynes, United Kingdom",
-    "type": "",
-    "salary": "",
-    "url": "https://careers.greenjets.com/jobs/7613064-production-supervisor",
-    "posted_at": "2026-04-22",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "a8e643bca9ea",
@@ -477,7 +513,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7553398-development-engineer-aero-thermal-powertrain-systems-germany-based",
     "posted_at": "2026-04-13",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "ad86ba43c2d5",
@@ -489,7 +525,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7278048-test-technician",
     "posted_at": "2026-02-23",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "55ea3fe42270",
@@ -501,7 +537,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7245734-stress-analysis-engineer-propulsion",
     "posted_at": "2026-02-17",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "25bf74501968",
@@ -513,7 +549,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7100613-aircraft-design-engineer",
     "posted_at": "2026-01-23",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "59366150b434",
@@ -525,7 +561,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7100573-aircraft-development-engineer",
     "posted_at": "2026-01-23",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "43bf792b9e69",
@@ -537,7 +573,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7100546-mechanical-design-engineer",
     "posted_at": "2026-01-23",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "ef85f1bac850",
@@ -549,7 +585,7 @@
     "salary": "",
     "url": "https://careers.greenjets.com/jobs/7005713-production-technician",
     "posted_at": "2026-01-06",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "479f246afde5",
@@ -561,7 +597,7 @@
     "salary": "",
     "url": "https://job-boards.eu.greenhouse.io/risalabs/jobs/4751842101",
     "posted_at": "2026-01-12",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "081c2062ef31",
@@ -573,7 +609,7 @@
     "salary": "",
     "url": "https://job-boards.eu.greenhouse.io/risalabs/jobs/4751825101",
     "posted_at": "2026-01-12",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "aa6569c28978",
@@ -585,7 +621,7 @@
     "salary": "",
     "url": "https://job-boards.eu.greenhouse.io/risalabs/jobs/4846886101",
     "posted_at": "2026-04-21",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "629f9cbe60e1",
@@ -597,7 +633,7 @@
     "salary": "",
     "url": "https://job-boards.eu.greenhouse.io/risalabs/jobs/4751811101",
     "posted_at": "2026-01-12",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "9f6908deec8b",
@@ -609,7 +645,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "05cc2ad52ac5",
@@ -621,7 +657,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "ead7e76d0800",
@@ -633,7 +669,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "3b5fd2eee81b",
@@ -645,7 +681,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "50f32125c42b",
@@ -657,7 +693,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "c21b42d959d3",
@@ -669,7 +705,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "bddc71e3b982",
@@ -681,7 +717,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "c39145aeb54e",
@@ -693,7 +729,7 @@
     "salary": "",
     "url": "https://zime.ai/careers",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "3dc9eff30236",
@@ -705,7 +741,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Sales-Business-Development-Executive.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "9e5070348fcb",
@@ -717,7 +753,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/product-sales-operations.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "7b2081513d2e",
@@ -729,7 +765,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Product-Marketing-Specialist.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "47fa3cf00317",
@@ -741,7 +777,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Demand-Generation-Specialist.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "884875c57ed1",
@@ -753,7 +789,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Sales-Operations-Specialist.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "b0db73037258",
@@ -765,7 +801,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Customer-Success-Specialist.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "885b5e8dc7f0",
@@ -777,7 +813,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Junior-Product-Owner.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "f40cea092683",
@@ -789,7 +825,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Full-Stack-Developer.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "37ac1fe9e966",
@@ -801,7 +837,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Mobile-App-Developer.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "ee79ce775d7d",
@@ -813,7 +849,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Junior-Site-Reliability-Engineer.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "53fc179e93b8",
@@ -825,7 +861,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Junior-QA-Engineer.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "0a1739b229c8",
@@ -837,7 +873,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/Documentation-Specialist.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "431c7369456d",
@@ -849,7 +885,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/UI-Developer.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "71981e691deb",
@@ -861,7 +897,7 @@
     "salary": "",
     "url": "https://www.devicethread.com/careers/UI-UX-Designer.html",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "5cf16fe3132f",
@@ -873,7 +909,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/26c980ee54b980e1897cd856ceae2f8a",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "ba42c6c054ee",
@@ -885,7 +921,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/1b1980ee54b981dcb740dd63a7082e43",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "fa1b05e28cc0",
@@ -897,7 +933,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2d9980ee54b980f78b0ad0eebaa869be",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "406bf352e34c",
@@ -909,7 +945,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/232980ee54b980e0ae65efbce1446ec7",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "887720475ee7",
@@ -921,7 +957,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2b8980ee54b9804b8e6ae6dd1242f2a2",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "04a5476f796e",
@@ -933,7 +969,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2dc980ee54b980bbb367e7c3b40673fd",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "24533b9a03f8",
@@ -945,7 +981,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2fd980ee54b9803d9c93e00709bd326e",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "2fbec1a91df5",
@@ -957,7 +993,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2fc980ee54b980ef8c8ac7b78634f532",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "4d64efc47653",
@@ -969,7 +1005,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2fc980ee54b980628a07e3f1c292d483",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "6370fb60561b",
@@ -981,7 +1017,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2f7980ee54b980838ba9ea8471439027",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "5d665826527b",
@@ -993,7 +1029,7 @@
     "salary": "",
     "url": "https://prism-cork-8f6.notion.site/2ea980ee54b980a187e2d85ea01e94d0",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "ea0844b63ee3",
@@ -1005,7 +1041,31 @@
     "salary": "",
     "url": "https://refold.notion.site/398b06e6391e81c58d8de9e8ada1c08f",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
+  },
+  {
+    "id": "dbcb055fe21e",
+    "company": "Refold",
+    "title": "Senior Software Engineer",
+    "department": "",
+    "location": "India",
+    "type": "",
+    "salary": "",
+    "url": "https://refold.notion.site/21fb06e6391e802b84a7ce41393b3729",
+    "posted_at": "",
+    "scraped_at": "2026-07-27"
+  },
+  {
+    "id": "677ed1ef65d7",
+    "company": "Refold",
+    "title": "AI Engineer",
+    "department": "",
+    "location": "India",
+    "type": "",
+    "salary": "",
+    "url": "https://refold.notion.site/21fb06e6391e80f69397d3fff05769e9",
+    "posted_at": "",
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "7bbe2bbc4b93",
@@ -1017,7 +1077,7 @@
     "salary": "",
     "url": "https://refold.notion.site/396b06e6391e81b0b16ae76b4b700191",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "83a56676d20a",
@@ -1029,7 +1089,7 @@
     "salary": "",
     "url": "https://refold.notion.site/39fb06e6391e817f94c1d8bafa23173a",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "39c19fc480a9",
@@ -1041,7 +1101,7 @@
     "salary": "",
     "url": "https://refold.notion.site/396b06e6391e811788a7c27f5e85477b",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "2b363ddbf26f",
@@ -1053,19 +1113,7 @@
     "salary": "",
     "url": "https://refold.notion.site/396b06e6391e81ebae0ae3010b7ec314",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
-  },
-  {
-    "id": "efc0d6496eb3",
-    "company": "Refold",
-    "title": "Founder’s Office — Strategy & GTM",
-    "department": "",
-    "location": "India",
-    "type": "",
-    "salary": "",
-    "url": "https://refold.notion.site/2c4b06e6391e802d8d45f877832b0d91",
-    "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "a42a9f5be5fe",
@@ -1077,31 +1125,43 @@
     "salary": "",
     "url": "https://refold.notion.site/39db06e6391e80768347d50629222fab",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
-  },
-  {
-    "id": "ad00c27dc04b",
-    "company": "Refold",
-    "title": "Founder’s Office — Associate",
-    "department": "",
-    "location": "India",
-    "type": "",
-    "salary": "",
-    "url": "https://refold.notion.site/2c5b06e6391e806ba8f4dceac214b2a3",
-    "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "2ad108c15000",
     "company": "Refold",
-    "title": "Integration Architect",
+    "title": "Integration Technical Architect",
     "department": "",
     "location": "India",
     "type": "",
     "salary": "",
     "url": "https://refold.notion.site/39db06e6391e8078ab55ebe2d67c1515",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
+  },
+  {
+    "id": "535dc1077b0c",
+    "company": "Refold",
+    "title": "DevOps Engineer",
+    "department": "",
+    "location": "India",
+    "type": "",
+    "salary": "",
+    "url": "https://refold.notion.site/222b06e6391e80069329cab6f62e38e3",
+    "posted_at": "",
+    "scraped_at": "2026-07-27"
+  },
+  {
+    "id": "c96fa4ee1c53",
+    "company": "Refold",
+    "title": "Security Engineer",
+    "department": "",
+    "location": "India",
+    "type": "",
+    "salary": "",
+    "url": "https://refold.notion.site/3a5b06e6391e801a9e38ecf3b85f041c",
+    "posted_at": "",
+    "scraped_at": "2026-07-27"
   },
   {
     "id": "4e47b9052b84",
@@ -1113,6 +1173,18 @@
     "salary": "",
     "url": "https://refold.notion.site/220b06e6391e807aa68fc4ff6ca00a83",
     "posted_at": "",
-    "scraped_at": "2026-07-20"
+    "scraped_at": "2026-07-27"
+  },
+  {
+    "id": "cc2042893139",
+    "company": "Refold",
+    "title": "Enterprise Sales Development Representative",
+    "department": "",
+    "location": "India",
+    "type": "",
+    "salary": "",
+    "url": "https://refold.notion.site/3a5b06e6391e80dcaf0bdc32f0d5d4a7",
+    "posted_at": "",
+    "scraped_at": "2026-07-27"
   }
 ]
